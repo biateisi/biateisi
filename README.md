@@ -1,5 +1,5 @@
 <h1 align center="center">
-    <img src="../GITHUB/BeatrizTeisi/Banner_profile">
+    <img src="../biateisi/Banner_profile">
 </h1>
 <br>
 <p>Graduated in Pharmacy since 2011, I worked in the pharmaceutical market, in several sectors, and I always had an energy for change, I was never content to accept things as they are, because of that the other specializations I studied were always focused on creating something that added value to what I performed and collaborated in changing processes. The interaction with technology came with the system validation activities, where we carry out tests as users to implement new software in the processes, confronting the current legislation. This contact with software made me understand the potential that technology has to change things.</p>
@@ -27,7 +27,7 @@
 <br>
 <br>
 <h2>📊 Statistics</h2>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=biateisi&layout=compact)]
+[![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biateisi&layout=compact">]
 <br>
 <br>
 <h2>📱 Contact</h2>
